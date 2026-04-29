@@ -50,6 +50,6 @@ Business insights for decision-making
 
 **Conclusion**
 
-The Sales Dashboard provides a clear overview of sales performance by summarizing key metrics such as total sales, product performance, and sales trends. Through visualizations and summary tables, the dashboard helps identify high-performing products, sales patterns, and potential areas for improvement.
+The dashboard reveals important trends and patterns such as monthly sales growth, top-performing products, regional sales performance, and customer buying behavior. It also highlights seasonal demand changes, underperforming categories, and revenue opportunities.
 
 Overall, the dashboard enables data-driven decision making by transforming raw sales data into meaningful insights, helping businesses monitor performance and plan future sales strategies more effectively.
